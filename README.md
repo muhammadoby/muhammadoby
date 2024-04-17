@@ -1,10 +1,7 @@
 <h2>🙏Welcome to my Github, I'm Muhammad Oby! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="230">
+<img align='right' src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRuYm91bjA5MW53dnhmMWU3azZvYWsxaHVuYWkyM2RpbTY3MnVvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="230">
 <p><em>Web Developer <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHU5MmlmaXpoMnM5bHZxNTBodjJmNWxka3A1cGkwZGphdHR6czFpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="30"> 
 </em></p>
-![Twitter Follow](https://img.shields.io/twitter/follow/MuhammadOby07?label=Follow)
-![GitHub followers](https://img.shields.io/github/followers/muhammadoby?label=Follow&style=social)
-![](https://visitor-badge.glitch.me/badge?page_id=muhammadoby)
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
