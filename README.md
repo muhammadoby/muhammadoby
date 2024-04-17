@@ -28,4 +28,4 @@ const muhammadoby = {
 };
 ```
 
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I like to try new things</b> because <b>I'm easily curious about something new</b> :v</em>
+<img src="https://cdn3.emoji.gg/emojis/7049-mewingcat.png" width="60"> <em><b>I like to try new things</b> because <b>I'm easily curious about something new</b> :v</em>
