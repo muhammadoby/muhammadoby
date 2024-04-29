@@ -30,4 +30,6 @@ const muhammadoby = {
 
 <img src="https://cdn3.emoji.gg/emojis/7049-mewingcat.png" width="60"> <em><b>I like to try new things</b> because <b>I'm easily curious about something new</b> :v</em>
 
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31xdm2k6p3bxiitwnh26y4lad3zm&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.vercel.app/api/view?uid=31xdm2k6p3bxiitwnh26y4lad3zm&redirect=true)
+
 ![](https://komarev.com/ghpvc/?username=muhammadoby&color=ff69b4)
