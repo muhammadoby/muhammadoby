@@ -29,3 +29,5 @@ const muhammadoby = {
 ```
 
 <img src="https://cdn3.emoji.gg/emojis/7049-mewingcat.png" width="60"> <em><b>I like to try new things</b> because <b>I'm easily curious about something new</b> :v</em>
+
+![](https://komarev.com/ghpvc/?username=muhammadoby&color=ff69b4)
