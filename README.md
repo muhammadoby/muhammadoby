@@ -8,11 +8,11 @@
 ```javascript
 const muhammadoby = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "C#", "Python", "php"],
+    code: ["Javascript", "C#", "Python", "Php"],
     askMeAbout: ["web dev", "tech", "networking"],
     technologies: {
         frontEnd: {
-            js: ["react", "vue"],
+            js: ["react", "vue", "NextJS"],
             css: ["tailwind", "nextui", "daisyui", "bootstrap"]
         },
         backEnd: {
