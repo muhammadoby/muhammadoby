@@ -12,7 +12,7 @@ const muhammadoby = {
     askMeAbout: ["web dev", "tech", "networking"],
     technologies: {
         frontEnd: {
-            js: ["react", "vue", "NextJS"],
+            js: ["react", "NextJS"],
             css: ["tailwind", "nextui", "daisyui", "bootstrap"]
         },
         backEnd: {
