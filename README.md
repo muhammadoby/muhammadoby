@@ -21,7 +21,7 @@ const muhammadoby = {
             php: ["laravel", 'codeigniter']
         },
         devOps: ["cpanel", "Docker🐳", "apache", "Nginx"],
-        databases: ["mongo", "MySql", "postgresql"],
+        databases: ["MySql", "postgresql"],
     },
     architecture: ["Progressive web applications", "Single page applications"],
     timezone: "Asia/Jakarta",
