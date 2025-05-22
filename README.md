@@ -16,8 +16,7 @@ const muhammadoby = {
             css: ["tailwind", "nextui", "daisyui", "bootstrap"]
         },
         backEnd: {
-            js: ["node"],
-            python: ["django"],
+            js: ["node", "Adonis JS", "express js"],
             php: ["laravel", 'codeigniter']
         },
         devOps: ["cpanel", "Docker🐳", "apache", "Nginx"],
