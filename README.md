@@ -1,6 +1,6 @@
-<h2>🙏Welcome to my Github, I'm Muhammad Oby! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
+<h2>Welcome to my Github, I'm Muhammad Oby! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
 <img align='right' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="230">
-<p><em>Web Developer <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHU5MmlmaXpoMnM5bHZxNTBodjJmNWxka3A1cGkwZGphdHR6czFpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="30"> 
+<p><em>Web Developer & Mobile Developer <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHU5MmlmaXpoMnM5bHZxNTBodjJmNWxka3A1cGkwZGphdHR6czFpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="30"> 
 </em></p>
 
 ### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRuYm91bjA5MW53dnhmMWU3azZvYWsxaHVuYWkyM2RpbTY3MnVvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="50"> A little more about me...  
@@ -8,7 +8,7 @@
 ```javascript
 const muhammadoby = {
     pronouns: "He" | "Him",
-    code: ["Javascript", "C#", "Python", "Php"],
+    code: ["Javascript", "C#", "Python", "Php", "Dart"],
     askMeAbout: ["web dev", "tech", "networking"],
     technologies: {
         frontEnd: {
@@ -19,10 +19,13 @@ const muhammadoby = {
             js: ["node", "Adonis JS", "express js"],
             php: ["laravel", 'codeigniter']
         },
+        mobile: {
+            stack: ["flutter", "kotlin"]
+        },
         devOps: ["cpanel", "Docker🐳", "apache", "Nginx"],
-        databases: ["MySql", "postgresql"],
+        databases: ["MySql", "postgresql", "mongoDB],
     },
-    architecture: ["Progressive web applications", "Single page applications"],
+    architecture: ["Progressive web applications", "Single page applications", "Mobile Development"],
     timezone: "Asia/Jakarta",
 };
 ```
