@@ -23,7 +23,7 @@ const muhammadoby = {
             stack: ["flutter", "kotlin"]
         },
         devOps: ["cpanel", "Docker🐳", "apache", "Nginx"],
-        databases: ["MySql", "postgresql", "mongoDB],
+        databases: ["MySql", "postgresql", "mongoDB"],
     },
     architecture: ["Progressive web applications", "Single page applications", "Mobile Development"],
     timezone: "Asia/Jakarta",
