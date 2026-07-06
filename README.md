@@ -1,35 +1,161 @@
-<h2>Welcome to my Github, I'm Muhammad Oby! <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"></h2>
-<img align='right' src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="230">
-<p><em>Web & Mobile Developer <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHU5MmlmaXpoMnM5bHZxNTBodjJmNWxka3A1cGkwZGphdHR6czFpMiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif" width="30"> 
-</em></p>
+# Hi there, I'm Muhammad Oby 👋
 
-### <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRuYm91bjA5MW53dnhmMWU3azZvYWsxaHVuYWkyM2RpbTY3MnVvYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.gif" width="50"> A little more about me...  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=muhammadoby&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+</p>
+
+## 💻 About Me
+
+I'm a Full Stack Developer from Indonesia who enjoys building modern web applications, mobile apps, and backend services.
+
+I enjoy learning new technologies, solving real-world problems, and creating products that are scalable, maintainable, and user-friendly.
+
+* 🌱 Currently exploring Cloud, DevOps, and System Architecture
+* 🚀 Building web and mobile applications
+* 💬 Ask me about JavaScript, PHP, Flutter, Networking, and Linux
+* ⚡ Fun fact: I love experimenting with new technologies.
+
+---
+
+## 🚀 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=js,ts,php,cs,python,dart" />
+</p>
+
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,html,css" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,laravel" />
+</p>
+
+### Mobile
+
+<p>
+<img src="https://skillicons.dev/icons?i=flutter,kotlin" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
+</p>
+
+### DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=docker,nginx,linux,git,github,vscode,postman" />
+</p>
+
+---
+
+## 👨‍💻 About Me in Code
 
 ```javascript
-const muhammadoby = {
-    pronouns: "He" | "Him",
-    code: ["Javascript", "C#", "Python", "Php", "Dart"],
-    askMeAbout: ["web dev", "tech", "networking"],
-    technologies: {
-        frontEnd: {
-            js: ["react", "NextJS"],
-            css: ["tailwind", "nextui", "daisyui", "bootstrap"]
-        },
-        backEnd: {
-            js: ["node", "Adonis JS", "express js"],
-            php: ["laravel", 'codeigniter']
-        },
-        mobile: {
-            stack: ["flutter", "kotlin"]
-        },
-        devOps: ["cpanel", "Docker🐳", "apache", "Nginx"],
-        databases: ["MySql", "postgresql", "mongoDB"],
-    },
-    architecture: ["Progressive web applications", "Single page applications", "Mobile Development"],
-    timezone: "Asia/Jakarta",
+const muhammadOby = {
+  location: "Indonesia",
+  role: "Full Stack Developer",
+
+  languages: [
+    "JavaScript",
+    "TypeScript",
+    "PHP",
+    "C#",
+    "Python",
+    "Dart"
+  ],
+
+  frontend: [
+    "React",
+    "Next.js",
+    "Tailwind CSS",
+    "Bootstrap"
+  ],
+
+  backend: [
+    "Node.js",
+    "Express.js",
+    "AdonisJS",
+    "Laravel",
+    "CodeIgniter"
+  ],
+
+  mobile: [
+    "Flutter",
+    "Kotlin"
+  ],
+
+  databases: [
+    "MySQL",
+    "PostgreSQL",
+    "MongoDB"
+  ],
+
+  devOps: [
+    "Docker",
+    "Nginx",
+    "Apache",
+    "Linux",
+    "cPanel"
+  ],
+
+  currentlyLearning: [
+    "Cloud Computing",
+    "DevOps",
+    "System Design"
+  ]
 };
 ```
 
-<img src="https://cdn3.emoji.gg/emojis/7049-mewingcat.png" width="60"> <em><b>I like to try new things</b> because <b>I'm easily curious about something new</b> :v</em>
+---
 
-![](https://komarev.com/ghpvc/?username=muhammadoby&color=ff69b4)
+## 📊 GitHub Statistics
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=muhammadoby&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhammadoby&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=muhammadoby&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muhammadoby&theme=tokyonight&no-frame=true&row=1&column=6" />
+</p>
+
+---
+
+## 🤝 Connect With Me
+
+<p>
+<a href="https://github.com/muhammadoby">
+<img src="https://skillicons.dev/icons?i=github" />
+</a>
+
+<a href="https://www.linkedin.com/in/muhammad-oby-labyqul-umam-23a92a300/">
+<img src="https://skillicons.dev/icons?i=linkedin" />
+</a>
+
+<a href="mailto:labyqulumam@email.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+</p>
+
+---
+
+<p align="center">
+<i>"Keep learning, keep building, and never stop being curious."</i>
+</p>
