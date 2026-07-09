@@ -125,7 +125,7 @@ const muhammadOby = {
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=muhammadoby&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=muhammadoby&layout=compact&theme=radical" />
 </p>
 
 ---
