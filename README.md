@@ -120,8 +120,8 @@ const muhammadOby = {
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img height="110" src="https://github-readme-stats-fast.vercel.app/api?username=muhammadoby&show_icons=true&theme=radical" />
-  <img height="110" src="https://github-readme-stats-fast.vercel.app/api/streak?username=muhammadoby&theme=radical" />
+  <img height="140" src="https://github-readme-stats-fast.vercel.app/api?username=muhammadoby&show_icons=true&theme=radical" />
+  <img height="140" src="https://github-readme-stats-fast.vercel.app/api/streak?username=muhammadoby&theme=radical" />
 </p>
 
 <p align="center">
